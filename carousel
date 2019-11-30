@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+  </head>
+  <body>
+
+
+<div id="car1" class="carousel slide clearfix" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#car1" data-slide-to="0" class="active"></li>
+    <li data-target="#car1" data-slide-to="1"></li>
+    <li data-target="#car1" data-slide-to="2"></li>
+    <li data-target="#car1" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+        <figure id="projectsvg">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 1920 1060" preserveAspectRatio="xMinYMin meet">
+				<image class="d-block w-100" xlink:href="./images/c.jpg" />
+				<g class="hover_group" opacity="0">
+					<a xlink:href="social_clubbing_new.php" target="_blank">
+						<rect x="185" y="552" opacity="0.2" fill="#FFFFFF" width="220" height="70"></rect>
+					</a>
+				</g>
+            </svg>
+        </figure>       
+    </div>
+    <div class="carousel-item">
+        <figure id="projectsvg">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 1920 1060" preserveAspectRatio="xMinYMin meet">
+				<image class="d-block w-100" xlink:href="./images/h1.png" />
+				<g class="hover_group" opacity="0">
+					<a xlink:href="ultimate-holidays_new.php" target="_blank">
+						<rect x="185" y="552" opacity="0.2" fill="#FFFFFF" width="220" height="70"></rect>
+					</a>
+				</g>
+            </svg>
+        </figure>       
+    </div>
+    <div class="carousel-item">
+        <figure id="projectsvg">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 1920 1060" preserveAspectRatio="xMinYMin meet">
+				<image class="d-block w-100" xlink:href="./images/f.jpg" />
+				<g class="hover_group" opacity="0">
+					<a xlink:href="personal-trainer_new.php" target="_blank">
+						<rect x="185" y="552" opacity="0.2" fill="#FFFFFF" width="220" height="70"></rect>
+					</a>
+				</g>
+            </svg>
+        </figure>      
+    </div>
+    <div class="carousel-item">
+        <figure id="projectsvg">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 1920 1060" preserveAspectRatio="xMinYMin meet">
+				<image class="d-block w-100" xlink:href="./images/e.jpg" />
+				<g class="hover_group" opacity="0">
+					<a xlink:href="events_new.php" target="_blank">
+						<rect x="185" y="555" opacity="0.2" fill="#FFFFFF" width="220" height="60"></rect>
+					</a>
+				</g>
+            </svg>
+        </figure>
+    </div>
+  </div>
+</div>
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  </body>
+</html>
+
+
+
